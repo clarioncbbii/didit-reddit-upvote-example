@@ -55,16 +55,35 @@ The project is a work in progress and is not yet complete.
 
 ### Please mention the requirements you met and which goals you achieved for this assignment.
 
+- Deploy it on Vercel
+- Make changes to README.md if relevant, which I did above re: the build command fix that I implemented
+
 ### Were there any requirements or goals that you were not quite able to achieve?
 
+Any stretch goals
+
 ### If so, could you please tell us what was it that you found difficult about these tasks?
+
+My main blocker was a server error that I got when trying to sign in. Without signing in, the stretch goals were all non-starters.
 
 ## (Optional) Feel free to add any other reflections you would like to share about your submission e.g.
 
 ### What went really well and what could have gone better?
 
+I spent about 70% of the day on that server error, studying, debugging, breaking the app, fixing it again - and I just could not get past it.
+I took lots of breaks to come back with clean eyes, but by mid-afternoon after another broken site resulting from an attempted fix, I was incredibly frustrated. At that point I simply set the boundary for myself that I would stop developing once I got the site back to working order.
+
+This was a very different type of assignment, but one I actually quite enjoyed. It felt very 'real world scenario'.
+It is fair to say that the road ahead to Solutions Architecture is long but my time with coding so far has been enjoyable.
+
 ### Detailing useful external sources that helped you complete the assignment (e.g Youtube tutorials).
+
+Youtube, Dev, Stackoverflow, MDN, official documentation, and the teachers
 
 ### Describing errors or bugs you encountered while completing your assignment.
 
+Boy, oh, boy - wrongly named tables, changing SQL queries, env. setup, evil dependencies and many more errors. I was quite chuffed with how systematic I was with debugging. You'd be shocked at how much one absorbs over the week and was pleasantly surpised to find that I knew where to look for the resources that could help me ahead.
+
 ### Requesting feedback about a specific part of your submission.
+
+Any general feedback on the assignment and my debugging methodology would be much appreciated.
