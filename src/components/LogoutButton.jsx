@@ -1,4 +1,4 @@
-import { signOut } from "@/app/api/auth/[...nextauth]/auth";
+import { signOut } from "@/auth";
 
 export function LogoutButton() {
   async function handleLogout() {

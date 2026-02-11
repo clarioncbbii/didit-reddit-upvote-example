@@ -1,4 +1,4 @@
-import { signIn } from "@/app/api/auth/[...nextauth]/auth";
+import { signIn } from "@/auth";
 
 export function LoginButton() {
   async function handleLogin() {

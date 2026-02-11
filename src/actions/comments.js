@@ -1,6 +1,6 @@
 "use server";
 
-import { auth } from "@/app/api/auth/[...nextauth]/auth";
+import { auth } from "@/auth";
 import { db } from "@/db";
 import { revalidatePath } from "next/cache";
 
