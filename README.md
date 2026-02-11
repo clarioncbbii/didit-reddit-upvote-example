@@ -20,7 +20,7 @@ The project is a work in progress and is not yet complete.
 ## Setup instructions
 
 1. Fork the repository (check "copy the main branch only") and clone your fork to your local machine
-2. Run `npm install`
+2. Run `npm install --legacy-peer-deps` to avoid errors caused by the dependencies. Remember to override the default build command on Vercel.
 3. Create a `.env.local` file in the root directory and add the following environment variables:
    - `DATABASE_URL` - the URL of your Postgres database (eg. the Supabase connection string)
    - `AUTH_SECRET` - the Next Auth secret string (this can be anything at all like a password, but keep it secret!)
